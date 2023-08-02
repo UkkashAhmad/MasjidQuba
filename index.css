@@ -1,0 +1,18 @@
+body{
+  background: url(head.jpg);
+   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.name{
+    margin-right: 80px;
+    direction: rtl;
+    font-size: xx-large;
+}
+.dua{
+    margin-left: 80px;
+}

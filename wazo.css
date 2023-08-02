@@ -1,0 +1,19 @@
+body{
+    background: url(wazo.jpg);
+     background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      direction: rtl;
+      }
+      .faraz{
+        font-size: x-large;
+        color: aqua;
+      }
+      .sunnat{
+        font-size: x-large;
+        color: #00ffa9;
+      }
+    .broke{
+        font-size: x-large;
+        color: red;
+    }
